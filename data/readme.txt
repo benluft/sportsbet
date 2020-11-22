@@ -1,0 +1,1 @@
+The data here is the csvs from https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke_scores.csv
